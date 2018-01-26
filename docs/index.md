@@ -1,4 +1,4 @@
-## PBPG 957 Spring 2018
+## Materials
 
 - [Syllabus (pdf)](PBPG_957_Spring_2018_Yandell.pdf)
 
