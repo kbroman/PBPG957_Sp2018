@@ -4,4 +4,6 @@
 
 - [Additional QTL papers](qtl_papers.html)
 
-- [Intro lecture (pdf)](qtl_intro.pdf)
+- [How to give a scientific presentation (pdf slides)](https://www.biostat.wisc.edu/~kbroman/presentations/giving_talks.pdf)
+
+- [Intro lecture on QTL mapping (pdf slides)](qtl_intro.pdf)
