@@ -10,6 +10,8 @@
 
 ## Schedule
 
+_Feb 9_ **Class will be held, content TBD**
+
 _Feb 16_ Kathryn Michel
 
 _Feb 23_ Andrew Maule,
