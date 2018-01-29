@@ -15,13 +15,13 @@ _Feb 9_ **Class will be held, content TBD**
 _Feb 16_ Kathryn Michel
 
 _Feb 23_ Andrew Maule,
-Bridget McFarland,
+Bridget McFarland
 
-_Mar 2_ Sofia Macchiavelli Giron,
+_Mar 2_ Sofia Macchiavelli Girón,
 Keo Corak
 
 _Mar 9_
-Jose Varela
+José Varela
 
 _Mar 16_
 Tina Wu,
@@ -29,7 +29,7 @@ Junyi Tan
 
 _Mar 23_
 Solveig Hanson,
-Pablo Gonzalez
+Pablo González
 
 _Mar 30_ **Spring break**
 
