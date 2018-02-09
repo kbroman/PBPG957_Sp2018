@@ -28,7 +28,6 @@ Tina Wu,
 Junyi Tan
 
 _Mar 23_
-Solveig Hanson,
 Pablo González
 
 _Mar 30_ **Spring break**
