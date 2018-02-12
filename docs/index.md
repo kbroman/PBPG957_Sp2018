@@ -10,7 +10,7 @@
 
 ## Schedule
 
-_Feb 9_ **Class will be held, content TBD**
+_Feb 9_ Brian Yandell, [Extensions to R/qtl2](http://www.stat.wisc.edu/~yandell/talk/hort/2018_Rqtl2Extensions.pdf)
 
 _Feb 16_ Kathryn Michel
 
