@@ -33,5 +33,4 @@ Pablo González
 _Mar 30_ **Spring break**
 
 _Apr 6_
-Saida Chacon,
 Scott Brainard
