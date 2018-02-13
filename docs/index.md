@@ -28,9 +28,5 @@ Tina Wu,
 Junyi Tan
 
 _Mar 23_
-Pablo González
-
-_Mar 30_ **Spring break**
-
-_Apr 6_
+Pablo González,
 Scott Brainard
