@@ -14,14 +14,15 @@ _Feb 9_ Brian Yandell, [Extensions to R/qtl2](http://www.stat.wisc.edu/~yandell/
 
 _Feb 16_ [Kathryn Michel](abstracts/kathryn_michel_2018-02-16.pdf)
 
-_Feb 23_ Andrew Maule,
+_Feb 23_
 Bridget McFarland
 
 _Mar 2_ Sofia Macchiavelli Girón,
 Keo Corak
 
 _Mar 9_
-José Varela
+José Varela,
+Andrew Maule
 
 _Mar 16_
 Tina Wu,
