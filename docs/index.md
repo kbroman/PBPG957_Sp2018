@@ -15,7 +15,7 @@ _Feb 9_ Brian Yandell, [Extensions to R/qtl2](http://www.stat.wisc.edu/~yandell/
 _Feb 16_ [Kathryn Michel](abstracts/kathryn_michel_2018-02-16.pdf)
 
 _Feb 23_
-Bridget McFarland
+[Bridget McFarland](abstracts/bridget_mcfarland_2018-02-23.pdf)
 
 _Mar 2_ Sofia Macchiavelli Girón,
 Keo Corak
