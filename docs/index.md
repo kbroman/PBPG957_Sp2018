@@ -17,7 +17,7 @@ _Feb 16_ [Kathryn Michel](abstracts/kathryn_michel_2018-02-16.pdf)
 _Feb 23_
 [Bridget McFarland](abstracts/bridget_mcfarland_2018-02-23.pdf)
 
-_Mar 2_ Sofia Macchiavelli Girón,
+_Mar 2_
 Keo Corak
 
 _Mar 9_
