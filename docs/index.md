@@ -18,7 +18,7 @@ _Feb 23_
 [Bridget McFarland](abstracts/bridget_mcfarland_2018-02-23.pdf)
 
 _Mar 2_
-Keo Corak
+[Keo Corak](abstracts/keo_corak_2018-03-02.pdf)
 
 _Mar 9_
 José Varela,
