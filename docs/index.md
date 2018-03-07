@@ -22,7 +22,7 @@ _Mar 2_
 
 _Mar 9_
 [José Varela](abstracts/jose_varela_2018-03-09.pdf),
-Andrew Maule
+[Andrew Maule](abstracts/andrew_maule_2018-03-09.pdf)
 
 _Mar 16_
 Tina Wu,
