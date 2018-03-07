@@ -21,7 +21,7 @@ _Mar 2_
 [Keo Corak](abstracts/keo_corak_2018-03-02.pdf)
 
 _Mar 9_
-José Varela,
+[José Varela](abstracts/jose_varela_2018-03-09.pdf),
 Andrew Maule
 
 _Mar 16_
