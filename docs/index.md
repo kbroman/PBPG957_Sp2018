@@ -25,7 +25,7 @@ _Mar 9_
 [Andrew Maule](abstracts/andrew_maule_2018-03-09.pdf)
 
 _Mar 16_
-Tina Wu,
+[Tina Wu](abstracts/tina_wu_2018-03-16.pdf),
 Junyi Tan
 
 _Mar 23_
