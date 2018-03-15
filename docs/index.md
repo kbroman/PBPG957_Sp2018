@@ -26,7 +26,7 @@ _Mar 9_
 
 _Mar 16_
 [Tina Wu](abstracts/tina_wu_2018-03-16.pdf),
-Junyi Tan
+[Junyi Tan](abstracts/junyi_tan_2018-03-16.pdf)
 
 _Mar 23_
 Pablo González,
