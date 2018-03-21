@@ -29,5 +29,5 @@ _Mar 16_
 [Junyi Tan](abstracts/junyi_tan_2018-03-16.pdf)
 
 _Mar 23_
-Pablo González,
-Scott Brainard
+[Pablo González Barrios](abstracts/pablo_gonzalez_barrios_2018-03-23.pdf),
+[Scott Brainard](abstracts/scott_brainard_2018-03-23.pdf)
